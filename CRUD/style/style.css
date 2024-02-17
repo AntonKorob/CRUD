@@ -1,0 +1,50 @@
+.conteiner{
+    width: 100%;
+    padding-left: 10px;
+    background: rgb(208, 235, 240);
+}
+
+th, td {
+    padding: 10px;
+}
+th{
+    background: rgb(200, 243, 247);
+}
+td{
+    background: rgb(192, 247, 192);
+}
+input, textarea{
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid rgb(97, 86, 245);
+    border-radius: 5px;
+    background: rgb(217, 234, 241);
+}
+button{
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid rgb(97, 86, 245);
+    border-radius: 5px;
+    background: rgb(23, 116, 28);
+    color: aliceblue;
+}
+a{
+    cursor: pointer;
+    text-decoration: none;
+}
+#update:hover{
+    background: rgb(0, 148, 37);
+}
+.delete{
+    background: rgb(236, 159, 43);
+}
+.delete:hover{
+    background: rgb(241, 226, 6);
+}
+button:hover{
+    background: rgb(0, 148, 37);
+}
+.img_nav{
+    height: 70px;
+    width: 70px;
+}
